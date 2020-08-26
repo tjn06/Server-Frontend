@@ -1,0 +1,15 @@
+{
+  "name": "Frontendlist",
+  "version": "1.0.0",
+  "description": "Express web server for displaying a contactlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tobias Johnsson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
